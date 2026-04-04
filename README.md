@@ -108,6 +108,11 @@ src/
 └── index.js
 
 ---
+## Screenshot 
+
+![Alt Text](https://github.com/harshita-coder22/zorvyn-dashboard/tree/315e4b0a0a9d2630d95daca61db75f5eb8937b2d/FireShot)
+
+---
 
 ## ⚙️ Installation & Setup
 
