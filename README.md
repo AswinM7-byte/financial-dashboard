@@ -3,6 +3,10 @@
 A modern, responsive financial dashboard built using **React + Material UI**, featuring role-based UI, interactive charts, and clean UI/UX.
 
 ---
+## ✅ Live link
+Zorvyn Fintech Dashboard Project live link- https://zorvyn-dashboard-ruddy.vercel.app/
+
+---
 
 ## 📌 Overview
 
