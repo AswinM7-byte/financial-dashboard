@@ -108,21 +108,13 @@ src/
 └── index.js
 
 ---
-## Screenshot 
-
-![Alt Text](https://github.com/harshita-coder22/zorvyn-dashboard/blob/7613b651e82c7b6ac7b15609aa3aa3cf0e974849/FireShot/Advance%20sorting.png)
-![Alt Text](https://github.com/harshita-coder22/zorvyn-dashboard/blob/7613b651e82c7b6ac7b15609aa3aa3cf0e974849/FireShot/Dark%20mode.png)
-![Alt Text](https://github.com/harshita-coder22/zorvyn-dashboard/blob/7613b651e82c7b6ac7b15609aa3aa3cf0e974849/FireShot/Light%20%20mode.png)
-![Alt Text](https://github.com/harshita-coder22/zorvyn-dashboard/blob/7613b651e82c7b6ac7b15609aa3aa3cf0e974849/FireShot/mobile%20responsive.png)
-
----
 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/harshita-coder22/zorvyn-dashboard.git
+git clone https://github.com/AswinM7-byte/financial-dashboard.git
 cd zorvyn-dashboard
 
 ### 2️⃣ Install dependencies
@@ -157,7 +149,3 @@ Authentication system
 Advanced filters
 Animations (Framer Motion)
 
-👩‍💻 Author
-
-Harshita
-Frontend Developer 💙
