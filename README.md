@@ -8,7 +8,7 @@ A responsive financial management dashboard developed with **React** and **Mater
 
 **Project Demo:**
 Live Demo - https://financial-dashboard-ivory-psi.vercel.app/
-
+Github Repo - https://github.com/AswinM7-byte/financial-dashboard
 ---
 
 ## Project Description
