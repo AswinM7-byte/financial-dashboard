@@ -150,7 +150,7 @@ const MySidebar = () => {
                   fontWeight="bold"
                   sx={{ m: "10px 0 0 0" }}
                 >
-                  Harshita
+                  Aswin
                 </Typography>
                 
               </Box>
